@@ -11,7 +11,7 @@
 <div style={ float: left; }> 
   <a href="https://www.linkedin.com/in/lukas-weber-38b716133/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG27.png" height="30" /></a>
 </div>
-<div>
+<div style={ float: inline; }>
   <a href="https://www.xing.com/profile/Lukas_Weber80/cv" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/09/Xing_logo_logotype.png" height="30" /></a>
 </div>
 
